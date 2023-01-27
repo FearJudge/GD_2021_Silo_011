@@ -1,0 +1,2 @@
+---,Dialogue Name,Discussion Lines
+VoiceLine_01,"Dialogue between Player and Girl","((TextLine=""Hello, My name is Mr. Burns. I believe you have a letter for me."",VoiceLine=/Script/Engine.SoundCue'""/Game/Audio/Dialogue/NewSoundCue.NewSoundCue""',DialogueGiver=Player,DialogueDuration=2.000000),(TextLine=""Allright sir, and what is your full name?"",VoiceLine=None,DialogueGiver=Library Girl,DialogueDuration=2.000000),(TextLine=""I... don\'t know."",VoiceLine=None,DialogueGiver=Player,DialogueDuration=1.700000))"
